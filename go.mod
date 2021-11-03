@@ -8,7 +8,7 @@ require (
 	github.com/aymerick/raymond v2.0.2+incompatible
 	github.com/cespare/xxhash/v2 v2.1.1
 	github.com/elastic/go-elasticsearch/v7 v7.14.0
-	github.com/elastic/go-licenser v0.3.1
+	github.com/elastic/go-licenser v0.4.0
 	github.com/elastic/go-ucfg v0.8.3
 	github.com/elastic/package-spec/code/go v0.0.0-20210623152222-b358e974b7f9
 	github.com/fatih/color v1.12.0
@@ -28,7 +28,7 @@ require (
 	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
 	golang.org/x/oauth2 v0.0.0-20210402161424-2e8d93401602
-	golang.org/x/tools v0.1.5
+	golang.org/x/tools v0.1.7
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
 	helm.sh/helm/v3 v3.6.3
 	k8s.io/apimachinery v0.21.3
